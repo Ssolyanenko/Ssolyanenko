@@ -12,4 +12,11 @@
 ![Formik](https://img.shields.io/badge/Formik-%23EE0000.svg?style=for-the-badge&logo=Formik&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ssolyanenko&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ssolyanenko&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssolyanenko&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ssolyanenko&icon=6&color=2)](https://visitcount.itsvg.in)
 
