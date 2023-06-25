@@ -1,4 +1,4 @@
-# Your Name
+# Serhii Solianenko
 
 ## Personal Information
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/serhii-solyanenko-6b64ab1ba/) 
