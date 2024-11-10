@@ -11,6 +11,8 @@
 ![MobX](https://img.shields.io/badge/MobX-%23FF9955.svg?style=for-the-badge&logo=MobX&logoColor=white)
 ![Formik](https://img.shields.io/badge/Formik-%23EE0000.svg?style=for-the-badge&logo=Formik&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ssolyanenko&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
