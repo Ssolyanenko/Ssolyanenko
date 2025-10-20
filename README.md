@@ -12,6 +12,10 @@
 ![Formik](https://img.shields.io/badge/Formik-%23EE0000.svg?style=for-the-badge&logo=Formik&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![Virtuoso](https://img.shields.io/badge/Virtuoso-%232563EB.svg?style=for-the-badge&logo=react&logoColor=white)
+
+
 
 
 # 📊 GitHub Stats:
