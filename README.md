@@ -14,6 +14,15 @@
 ![React Query](https://img.shields.io/badge/React%20Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Virtuoso](https://img.shields.io/badge/Virtuoso-%232563EB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Algolia](https://img.shields.io/badge/Algolia-%235468FF.svg?style=for-the-badge&logo=algolia&logoColor=white)
+![Why Did You Render](https://img.shields.io/badge/Why%20Did%20You%20Render-%23FF6B6B.svg?style=for-the-badge&logo=react&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Stream](https://img.shields.io/badge/Stream-%23005FFF.svg?style=for-the-badge&logo=stream&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-%2326A69A.svg?style=for-the-badge&logo=i18next&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-%237856FF.svg?style=for-the-badge&logo=mixpanel&logoColor=white)
+![Stream Chat](https://img.shields.io/badge/Stream%20Chat-%23005FFF.svg?style=for-the-badge&logo=stream&logoColor=white)
+
+
 
 
 
